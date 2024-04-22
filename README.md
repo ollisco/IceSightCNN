@@ -20,7 +20,6 @@ Classification Report
 
          ice-free       0.96      0.96      0.96        78
 partially-covered       0.97      0.97      0.97       113
-
          accuracy                           0.97       191
         macro avg       0.97      0.97      0.97       191
      weighted avg       0.97      0.97      0.97       191
